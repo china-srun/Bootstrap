@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(36, 33, 33);
+}
+
+.nav-bar{
+    background-color: black;
+}
+
+.nav-link:hover{
+    color: red!important;
+}
+
+.section-center {
+    margin-top: 50px;
+    text-align: center;
+}
+
+main h1{
+    font-family: 'Mohave', sans-serif;
+    margin: 30px;
+}
+
+.card:hover{
+    border-width: medium !important;
+    border-color: red!important;
+    transform: scale(1.05);
+    filter: brightness(70%)
+}

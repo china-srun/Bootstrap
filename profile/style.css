@@ -1,0 +1,93 @@
+body{
+    padding: 0px;
+    margin: 0px;
+}
+
+
+.button{
+    margin: 30px;
+    border-color: #DD4124!important;
+    background-color: #DD4124!important;
+}
+
+.button:hover{
+  transform: scale(1.1);
+}
+
+.button a{
+    text-decoration: none;
+    color: white;
+}
+
+.card-hover:hover{
+    transform: scale(1.03);
+    background-color: #DD4124!important;
+}
+
+.card-hover{
+  height: 500px;
+}
+
+.profile-img img{
+  box-shadow: gray 1px 1px 100px 1px;
+  height: 600px;
+  margin-left: 25px;
+}
+
+
+.title-locat{
+  margin-top: 5rem;
+}
+
+.china{
+  color: #DD4124!important;
+}
+
+.logo{
+  color: #DD4124!important;
+}
+
+
+.nav-hover a:hover{
+  color: #DD4124!important;
+}
+
+
+.skill-text{
+    margin-bottom: 40px;
+}
+
+.git-button:hover{
+  border-color: #DD4124!important;
+  background-color: #DD4124!important;
+}
+
+.git-logo{
+  margin-left: 7rem;
+}
+.footer{
+    margin-top: 30px;
+    text-align: center;
+  }
+  
+  .icon{
+    color: black;
+  }
+  
+  .icon:hover{
+    color:#DD4124;
+    transform: scale(1.1);
+  }
+  
+  .contact i{
+    width: 30px;
+    margin: 10px;
+    margin-top: 1px;
+  }
+  
+  .copyright{
+    text-align: center;
+    height: 25px;
+    box-shadow: lightgray 1px 1px 20px;
+    font-size: 13px;
+  }
